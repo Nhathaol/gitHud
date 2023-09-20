@@ -10,6 +10,8 @@ namespace GITHUB
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("dasdasassd");
+            Console.ReadLine();
         }
     }
 }
